@@ -1,0 +1,6 @@
+streamlit
+st_pages
+pandas
+plotly
+pillow
+nltk
