@@ -5,9 +5,9 @@ st.set_page_config(page_icon="🚀", layout='wide')
 show_pages(
     [
         Page("app.py", "Home", "🏠"),
-        Page("pages\\plot.py", "3D Plots", "📊"),
-        Page("pages\\image.py", "Image Processing", "🖼️"),
-        Page("pages\\text.py", "Text Similarity", "📖"),
+        Page("plot.py", "3D Plots", "📊"),
+        Page("image.py", "Image Processing", "🖼️"),
+        Page("text.py", "Text Similarity", "📖"),
     ]
 )
 
